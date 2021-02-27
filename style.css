@@ -1,4 +1,99 @@
-h1 {
-    color:blue;
+
+body {
+    color: #696969;
+    line-height: 1.5;
+    margin: 0;
+    font-family: 'Raleway', sans-serif;
 }
+
+h1 {
+    text-align: center;
+    color: #4682b4;
+    margin: 0;
+    font-size: 100px;
+    font-family: 'Dancing Script', cursive;
+}
+
+h2 {
+    font-size: 40px;
+    font-family: 'Dancing Script', cursive;
+}
+
+.Nadpis_o_mne{
+    text-align: center;
+}
+
+.text_o_mne{
+    font-size: 20px;
+}
+
+section{
+    padding: 25px 20%;
+}
+
+.nadpis {
+    background-color:#cfe6ee;
+}
+
+.o_mne {
+    background-color:#e1e5eb;
+    padding-bottom: 110px;
+}
+
+.místa{
+    clear: left;
+    background-color:#cfe6ee;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    border-top: 1px solid #696969;
+}
+
+.popis_míst{
+    background-color:#e1e5eb;
+    border-bottom: 1px solid #696969;
+}
+
+.kontakty{
+    clear: left;
+    background-color:#cfe6ee;
+    
+}
+
+.zápatí{
+    background-color:#e1e5eb;
+    text-align: center;
+    padding: 20px;
+    color: #4682b4;
+}
+
+.moje_foto {
+    width: 200px;
+    border-radius: 10%;
+    float: left;
+    margin: 0 30px 30px 0;
+    width: 100px;
+}
+
+.thajskofoto{
+    width: 200px;
+    float: right;
+    border-radius: 0 10px 10px 0;
+    margin: 0 0 0 30px;
+}
+
+.tatryfoto{
+    width: 200px;
+    border-radius: 10px 0 0 10px;
+    float: left;
+    margin: 30px 30px 30px 0;
+}
+
+.rakouskofoto{
+    width: 200px;
+    float: right;
+    border-radius: 0 10px 10px 0;
+    margin: 0 0 0 30px;
+}
+
+
 
