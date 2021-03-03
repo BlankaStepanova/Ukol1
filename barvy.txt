@@ -1,4 +1,4 @@
 #cfe6ee - světle modrá
 #e1e5eb - světle šedivo-modrá
-#4682b4 - tmavě modrá (nadpis)
-#696969 - šedá (písmo)
+#4682b4 - tmavě modrá (nadpis, zápatí)
+#696969 - šedá (písmo), rámeček
